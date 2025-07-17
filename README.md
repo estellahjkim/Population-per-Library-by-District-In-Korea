@@ -1,3 +1,5 @@
+This Jupyter Notebook Pandas code is to analyze Population per Library by District In South Korea. This is to see which district doesn't have enough library.
+
 <img width="1556" height="405" alt="image" src="https://github.com/user-attachments/assets/2527ea0b-144e-4be2-ba1e-87ee9c96b5e9" />
 
 
